@@ -6,6 +6,10 @@ body {
 }
 .reveal h2 {
   text-transform: capitalize;
+  margin-bottom: 2.5rem;
+}
+.reveal ul li, .reveal ol li {
+  padding-bottom: 0.5rem;
 }
 
 .underline {
