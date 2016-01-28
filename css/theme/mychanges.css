@@ -1,8 +1,11 @@
 body {
-  background-color: #1dadef;
+  background-color: #674172;
 }
-h2 {
-  text-transform: capitalize !important;
+.reveal h1 {
+  font-size: 5rem;
+}
+.reveal h2 {
+  text-transform: capitalize;
 }
 
 .underline {
